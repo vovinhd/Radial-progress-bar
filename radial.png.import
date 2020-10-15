@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/icon.png-adf6f5c4053260b4ba2c68f666f66cdd.stex"
+path="res://.import/radial.png-291a07275941f4fc6c1ad67c1d7a5fe3.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://addons/radial_progress/icon.png"
-dest_files=[ "res://.import/icon.png-adf6f5c4053260b4ba2c68f666f66cdd.stex" ]
+source_file="res://addons/Radial-progress-bar/radial.png"
+dest_files=[ "res://.import/radial.png-291a07275941f4fc6c1ad67c1d7a5fe3.stex" ]
 
 [params]
 
